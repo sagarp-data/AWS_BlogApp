@@ -1,0 +1,1 @@
+export const GLOBAL_API_URL = 'http://eccfinalproject-env.eba-2kyni6qc.us-east-1.elasticbeanstalk.com';
